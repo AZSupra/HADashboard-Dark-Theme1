@@ -1,6 +1,6 @@
 # HADashboard-Dark-Theme1
 First dark theme for HADashboard
-![alt tag](/blur-theme-light.png)
+![alt tag](/dark-theme-1.png)
 
 Note that dashboard.css and variables.yaml alone won't make your dashboard look like the screenshot, you must also modify your dashboard files.  In order to gain more control over the exact size and position of dashboard elements I am using widget dimensions of 1x1 pixels.
 
