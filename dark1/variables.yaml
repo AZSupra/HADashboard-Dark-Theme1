@@ -26,10 +26,6 @@
 #
 # It is your responsibility to ensure the HTML is correct
 #
-
-head_includes:
-  - <script type="text/javascript" src="/custom_css/blur1/js/helpers.js"></script>
-
 # Custom body includes - should be a YAML List, e.g.:
 #
 #body_includes:
